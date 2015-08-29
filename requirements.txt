@@ -1,0 +1,3 @@
+-e git://github.com/adafruit/Adafruit_Python_CharLCD.git#egg=Adafruit_CharLCD
+-e git://github.com/adafruit/Adafruit_Python_GPIO.git#egg=Adafruit_GPIO
+paho-mqtt
